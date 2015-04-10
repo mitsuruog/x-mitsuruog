@@ -2,6 +2,8 @@
 
 My bussiness card components build with polymer.
 
+![mitsuruog](https://raw.githubusercontent.com/mitsuruog/x-mitsuruog/master/images/sample1.png "I am mitsuruog")
+
 ## Getting Started
 
  include an import that loads the new dependency in [`x-mitsuruog.html`](https://rawgit.com/mitsuruog/x-mitsuruog/master/elements/x-mitsuruog.html):
