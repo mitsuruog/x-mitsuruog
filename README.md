@@ -2,6 +2,8 @@
 
 My bussiness card components build with polymer.
 
+Inspired by [Adding Appeal to Your Animations on the Web - Tuts+ Web Design Tutorial](http://webdesign.tutsplus.com/tutorials/adding-appeal-to-your-animations-on-the-web--cms-23649) :beers:
+
 ![mitsuruog](https://raw.githubusercontent.com/mitsuruog/x-mitsuruog/master/images/sample1.png "I am mitsuruog")
 
 ## Getting Started
